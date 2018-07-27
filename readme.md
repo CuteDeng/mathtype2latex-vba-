@@ -1,0 +1,1 @@
+### vba实现将多个word文档中的mathtype类型转换为latex类型
